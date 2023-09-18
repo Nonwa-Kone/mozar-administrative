@@ -1,0 +1,19 @@
+{
+  "name": "mozar-administrative",
+  "version": "1.0.0",
+  "description": "MOZAR ADMINISTRATIVE EST UN PROJET DE CREATION DE SITEWEB DE TOUS TYPES DE DEMARCHES ADMINISTRATIVE S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nonwa-Kone/mozar-administrative.git"
+  },
+  "author": "Kone Nonwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nonwa-Kone/mozar-administrative/issues"
+  },
+  "homepage": "https://github.com/Nonwa-Kone/mozar-administrative#readme"
+}
