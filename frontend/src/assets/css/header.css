@@ -1,0 +1,31 @@
+
+
+@layer header {
+    .header {
+        background-color: #ffffff!important;
+        border-bottom: 3px solid var(--secondary-color);
+
+        > .container .logo{
+            width: 100px;
+            object-fit: cover;
+        }
+
+        > .container .collapse .navbar-nav .nav-item{
+            margin-inline: 1rem;
+            
+
+            > .nav-link{
+                text-transform: uppercase;
+                font-weight: 400;
+            }
+        }
+
+        >.container .collapse button{
+            background-color: var(--primary-color)!important;
+            color: var(--secondary-color)!important;
+            font-weight: 400;
+            text-transform: uppercase!important;
+            justify-content: space-evenly;
+        }
+    }
+}

@@ -1,0 +1,20 @@
+@layer Home{
+    .container-fluid .container .hero{
+        height: 75vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        > .container h1{
+            text-transform: uppercase;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        > .container p{
+            font-size: 1.8rem;
+            font-family: 'Roboto';
+            text-align: justify;
+        }
+    }
+}
